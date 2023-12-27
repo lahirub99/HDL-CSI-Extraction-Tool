@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Dec 27 13:26:57 2023
+# Process ID: 11520
+# Current directory: D:/Semester 7/CS4362 Hardware Description Languages/Project/HDL/HDL.runs/synth_1
+# Command line: vivado.exe -log DataProcessor.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DataProcessor.tcl
+# Log file: D:/Semester 7/CS4362 Hardware Description Languages/Project/HDL/HDL.runs/synth_1/DataProcessor.vds
+# Journal file: D:/Semester 7/CS4362 Hardware Description Languages/Project/HDL/HDL.runs/synth_1\vivado.jou
+# Running On: AsusVivoBook15, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 8434 MB
+#-----------------------------------------------------------
+source DataProcessor.tcl -notrace
+create_project: Time (s): cpu = 00:00:04 ; elapsed = 00:00:20 . Memory (MB): peak = 448.215 ; gain = 163.238
+WARNING: [Vivado 12-9135] Ignoring repo path (C:/Users/Lahiru D:/Semester 7/CS4362 Hardware Description Languages/Project/HDL/HDL.runs/synth_1/Bandara/AppData/Roaming/Xilinx/Vivado/2023.1/xhub/board_store/xilinx_board_store) because it contains no board files
+ERROR: [Board 49-71] The board_part definition was not found for digilentinc.com:basys3:part0:1.2. The project's board_part property was not set, but the project's part property was set to xc7a35tcpg236-1. Valid board_part values can be retrieved with the 'get_board_parts' Tcl command. Check if board.repoPaths parameter is set and the board_part is installed from the tcl app store.
+INFO: [Common 17-206] Exiting Vivado at Wed Dec 27 13:27:50 2023...

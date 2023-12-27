@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_DataProcessor_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_DataProcessor" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="610.001 ns"></ZoomEndTime>
+      <Cursor1Time time="530.943 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="269"></NameColumnWidth>
+      <ValueColumnWidth column_width="136"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="130" />
+   <wvobject fp_name="/tb_DataProcessor/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+      <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+      <obj_property name="CustomSignalColor">#008080</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_0" type="array">
+      <obj_property name="ElementShortName">data_frame_0[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_0[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_1" type="array">
+      <obj_property name="ElementShortName">data_frame_1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_2" type="array">
+      <obj_property name="ElementShortName">data_frame_2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_3" type="array">
+      <obj_property name="ElementShortName">data_frame_3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_3[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_4" type="array">
+      <obj_property name="ElementShortName">data_frame_4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_4[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_5" type="array">
+      <obj_property name="ElementShortName">data_frame_5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_5[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_6" type="array">
+      <obj_property name="ElementShortName">data_frame_6[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_6[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_7" type="array">
+      <obj_property name="ElementShortName">data_frame_7[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_7[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_8" type="array">
+      <obj_property name="ElementShortName">data_frame_8[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_8[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_9" type="array">
+      <obj_property name="ElementShortName">data_frame_9[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_9[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_10" type="array">
+      <obj_property name="ElementShortName">data_frame_10[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_10[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_11" type="array">
+      <obj_property name="ElementShortName">data_frame_11[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_11[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_12" type="array">
+      <obj_property name="ElementShortName">data_frame_12[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_12[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_13" type="array">
+      <obj_property name="ElementShortName">data_frame_13[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_13[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_14" type="array">
+      <obj_property name="ElementShortName">data_frame_14[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_14[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_15" type="array">
+      <obj_property name="ElementShortName">data_frame_15[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_15[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_16" type="array">
+      <obj_property name="ElementShortName">data_frame_16[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_16[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_17" type="array">
+      <obj_property name="ElementShortName">data_frame_17[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_17[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_18" type="array">
+      <obj_property name="ElementShortName">data_frame_18[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_18[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_19" type="array">
+      <obj_property name="ElementShortName">data_frame_19[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_19[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_20" type="array">
+      <obj_property name="ElementShortName">data_frame_20[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_20[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_21" type="array">
+      <obj_property name="ElementShortName">data_frame_21[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_21[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_22" type="array">
+      <obj_property name="ElementShortName">data_frame_22[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_22[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_23" type="array">
+      <obj_property name="ElementShortName">data_frame_23[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_23[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_24" type="array">
+      <obj_property name="ElementShortName">data_frame_24[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_24[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_25" type="array">
+      <obj_property name="ElementShortName">data_frame_25[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_25[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_26" type="array">
+      <obj_property name="ElementShortName">data_frame_26[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_26[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_27" type="array">
+      <obj_property name="ElementShortName">data_frame_27[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_27[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_28" type="array">
+      <obj_property name="ElementShortName">data_frame_28[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_28[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_29" type="array">
+      <obj_property name="ElementShortName">data_frame_29[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_29[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_30" type="array">
+      <obj_property name="ElementShortName">data_frame_30[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_30[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_31" type="array">
+      <obj_property name="ElementShortName">data_frame_31[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_31[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_32" type="array">
+      <obj_property name="ElementShortName">data_frame_32[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_32[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_33" type="array">
+      <obj_property name="ElementShortName">data_frame_33[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_33[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_34" type="array">
+      <obj_property name="ElementShortName">data_frame_34[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_34[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_35" type="array">
+      <obj_property name="ElementShortName">data_frame_35[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_35[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_36" type="array">
+      <obj_property name="ElementShortName">data_frame_36[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_36[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_37" type="array">
+      <obj_property name="ElementShortName">data_frame_37[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_37[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_38" type="array">
+      <obj_property name="ElementShortName">data_frame_38[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_38[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_39" type="array">
+      <obj_property name="ElementShortName">data_frame_39[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_39[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_40" type="array">
+      <obj_property name="ElementShortName">data_frame_40[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_40[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_41" type="array">
+      <obj_property name="ElementShortName">data_frame_41[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_41[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_42" type="array">
+      <obj_property name="ElementShortName">data_frame_42[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_42[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_43" type="array">
+      <obj_property name="ElementShortName">data_frame_43[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_43[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_44" type="array">
+      <obj_property name="ElementShortName">data_frame_44[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_44[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_45" type="array">
+      <obj_property name="ElementShortName">data_frame_45[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_45[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_46" type="array">
+      <obj_property name="ElementShortName">data_frame_46[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_46[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_47" type="array">
+      <obj_property name="ElementShortName">data_frame_47[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_47[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_48" type="array">
+      <obj_property name="ElementShortName">data_frame_48[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_48[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_49" type="array">
+      <obj_property name="ElementShortName">data_frame_49[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_49[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_50" type="array">
+      <obj_property name="ElementShortName">data_frame_50[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_50[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_51" type="array">
+      <obj_property name="ElementShortName">data_frame_51[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_51[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_52" type="array">
+      <obj_property name="ElementShortName">data_frame_52[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_52[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_53" type="array">
+      <obj_property name="ElementShortName">data_frame_53[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_53[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_54" type="array">
+      <obj_property name="ElementShortName">data_frame_54[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_54[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_55" type="array">
+      <obj_property name="ElementShortName">data_frame_55[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_55[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_56" type="array">
+      <obj_property name="ElementShortName">data_frame_56[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_56[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_57" type="array">
+      <obj_property name="ElementShortName">data_frame_57[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_57[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_58" type="array">
+      <obj_property name="ElementShortName">data_frame_58[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_58[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_59" type="array">
+      <obj_property name="ElementShortName">data_frame_59[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_59[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_60" type="array">
+      <obj_property name="ElementShortName">data_frame_60[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_60[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_61" type="array">
+      <obj_property name="ElementShortName">data_frame_61[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_61[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_62" type="array">
+      <obj_property name="ElementShortName">data_frame_62[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_62[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/data_frame_63" type="array">
+      <obj_property name="ElementShortName">data_frame_63[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_frame_63[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_0" type="array">
+      <obj_property name="ElementShortName">processed_frame_0[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_0[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_1" type="array">
+      <obj_property name="ElementShortName">processed_frame_1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_1[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_2" type="array">
+      <obj_property name="ElementShortName">processed_frame_2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_2[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_3" type="array">
+      <obj_property name="ElementShortName">processed_frame_3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_3[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_4" type="array">
+      <obj_property name="ElementShortName">processed_frame_4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_4[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_5" type="array">
+      <obj_property name="ElementShortName">processed_frame_5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_5[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_6" type="array">
+      <obj_property name="ElementShortName">processed_frame_6[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_6[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_7" type="array">
+      <obj_property name="ElementShortName">processed_frame_7[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_7[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_8" type="array">
+      <obj_property name="ElementShortName">processed_frame_8[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_8[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_9" type="array">
+      <obj_property name="ElementShortName">processed_frame_9[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_9[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_10" type="array">
+      <obj_property name="ElementShortName">processed_frame_10[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_10[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_11" type="array">
+      <obj_property name="ElementShortName">processed_frame_11[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_11[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_12" type="array">
+      <obj_property name="ElementShortName">processed_frame_12[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_12[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_13" type="array">
+      <obj_property name="ElementShortName">processed_frame_13[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_13[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_14" type="array">
+      <obj_property name="ElementShortName">processed_frame_14[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_14[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_15" type="array">
+      <obj_property name="ElementShortName">processed_frame_15[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_15[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_16" type="array">
+      <obj_property name="ElementShortName">processed_frame_16[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_16[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_17" type="array">
+      <obj_property name="ElementShortName">processed_frame_17[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_17[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_18" type="array">
+      <obj_property name="ElementShortName">processed_frame_18[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_18[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_19" type="array">
+      <obj_property name="ElementShortName">processed_frame_19[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_19[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_20" type="array">
+      <obj_property name="ElementShortName">processed_frame_20[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_20[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_21" type="array">
+      <obj_property name="ElementShortName">processed_frame_21[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_21[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_22" type="array">
+      <obj_property name="ElementShortName">processed_frame_22[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_22[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_23" type="array">
+      <obj_property name="ElementShortName">processed_frame_23[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_23[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_24" type="array">
+      <obj_property name="ElementShortName">processed_frame_24[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_24[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_25" type="array">
+      <obj_property name="ElementShortName">processed_frame_25[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_25[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_26" type="array">
+      <obj_property name="ElementShortName">processed_frame_26[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_26[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_27" type="array">
+      <obj_property name="ElementShortName">processed_frame_27[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_27[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_28" type="array">
+      <obj_property name="ElementShortName">processed_frame_28[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_28[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_29" type="array">
+      <obj_property name="ElementShortName">processed_frame_29[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_29[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_30" type="array">
+      <obj_property name="ElementShortName">processed_frame_30[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_30[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_31" type="array">
+      <obj_property name="ElementShortName">processed_frame_31[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_31[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_32" type="array">
+      <obj_property name="ElementShortName">processed_frame_32[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_32[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_33" type="array">
+      <obj_property name="ElementShortName">processed_frame_33[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_33[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_34" type="array">
+      <obj_property name="ElementShortName">processed_frame_34[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_34[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_35" type="array">
+      <obj_property name="ElementShortName">processed_frame_35[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_35[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_36" type="array">
+      <obj_property name="ElementShortName">processed_frame_36[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_36[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_37" type="array">
+      <obj_property name="ElementShortName">processed_frame_37[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_37[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_38" type="array">
+      <obj_property name="ElementShortName">processed_frame_38[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_38[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_39" type="array">
+      <obj_property name="ElementShortName">processed_frame_39[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_39[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_40" type="array">
+      <obj_property name="ElementShortName">processed_frame_40[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_40[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_41" type="array">
+      <obj_property name="ElementShortName">processed_frame_41[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_41[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_42" type="array">
+      <obj_property name="ElementShortName">processed_frame_42[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_42[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_43" type="array">
+      <obj_property name="ElementShortName">processed_frame_43[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_43[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_44" type="array">
+      <obj_property name="ElementShortName">processed_frame_44[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_44[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_45" type="array">
+      <obj_property name="ElementShortName">processed_frame_45[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_45[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_46" type="array">
+      <obj_property name="ElementShortName">processed_frame_46[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_46[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_47" type="array">
+      <obj_property name="ElementShortName">processed_frame_47[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_47[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_48" type="array">
+      <obj_property name="ElementShortName">processed_frame_48[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_48[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_49" type="array">
+      <obj_property name="ElementShortName">processed_frame_49[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_49[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_50" type="array">
+      <obj_property name="ElementShortName">processed_frame_50[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_50[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_51" type="array">
+      <obj_property name="ElementShortName">processed_frame_51[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_51[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_52" type="array">
+      <obj_property name="ElementShortName">processed_frame_52[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_52[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_53" type="array">
+      <obj_property name="ElementShortName">processed_frame_53[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_53[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_54" type="array">
+      <obj_property name="ElementShortName">processed_frame_54[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_54[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_55" type="array">
+      <obj_property name="ElementShortName">processed_frame_55[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_55[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_56" type="array">
+      <obj_property name="ElementShortName">processed_frame_56[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_56[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_57" type="array">
+      <obj_property name="ElementShortName">processed_frame_57[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_57[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_58" type="array">
+      <obj_property name="ElementShortName">processed_frame_58[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_58[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_59" type="array">
+      <obj_property name="ElementShortName">processed_frame_59[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_59[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_60" type="array">
+      <obj_property name="ElementShortName">processed_frame_60[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_60[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_61" type="array">
+      <obj_property name="ElementShortName">processed_frame_61[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_61[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_62" type="array">
+      <obj_property name="ElementShortName">processed_frame_62[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_62[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_DataProcessor/processed_frame_63" type="array">
+      <obj_property name="ElementShortName">processed_frame_63[15:0]</obj_property>
+      <obj_property name="ObjectShortName">processed_frame_63[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+</wave_config>
