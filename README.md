@@ -157,6 +157,10 @@ This shows the arrangement for it's arrangement for all the inputs.
 #### Hierarchey
 ![Hierarchey](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/33177e48-71df-4011-b5cd-fdc639ecd977)
 
+#### Simulation
+![image](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/f064b355-a7a5-4a14-ad09-ec45333b5818)
+
+
 *** 
 
 ### Filter 
