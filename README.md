@@ -141,12 +141,23 @@ Each of those data contained 128 values representing 52 subcarriers. (Out of all
 
 ***
 
-**Design**
+## Data Processing
 
+### Data Processor
 
-![Hierarchey](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/33177e48-71df-4011-b5cd-fdc639ecd977)
+After aquiring the CSI data, they will be sent to the Data Processor element.
+It has input wires for each subcarrier and each of those data will be processed through a filter component with additional clock and reset signals.
+
+#### Schemetic View
+This shows the arrangement for it's arrangement for all the inputs.
 ![Processor_Semantic](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/83e1346a-e74b-4c10-921c-ce3f953c52b0)
+<br> After zooming in, it will look like this. 
 ![Processor_Semantic_zoom](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/01cc6636-c297-4d7e-abc8-8e8b70d414ee)
+
+#### Hierarchey
+![Hierarchey](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/33177e48-71df-4011-b5cd-fdc639ecd977)
+
+*** 
 
 ### Filter 
 As the filter for each sub carrier, we choosed a threshold filer with a combination of High Pass Filter and a Low Pass Filter.
@@ -157,8 +168,11 @@ As explained earlier, those filter have many use cases.
   - High Pass Filters (HPFs) can be used to filter out signals from static objects that have relatively stable signal reflections.
   - WiFi-based gesture recognition can use High Pass Filter to extract the target signals reflected by human movements.
   ![image](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/c1ea0cd9-4797-402d-9fed-7cc35084f88e)
-    
 
+Designed filter limits the range of the input signal to be within the specified high and low thresholds. It filters out values above the high threshold, below the low threshold, and passes through values within the threshold range.
+
+#### Schematic
+![image](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/8f72c669-a9e2-4072-8808-6df2c0f7b7dc)
 
 
 Due to several contrains we couldn't test the design using a FPGA board. 
