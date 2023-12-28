@@ -1,5 +1,5 @@
 With the high demand for wireless data traffic, WiFi networks have very rapid growth because they provide high throughput and are easy to deploy. 
-Recently, Channel State Information (CSI) measured by WiFi networks is widely used for different sensing purposes.
+Recently, Channel State Information (CSI) measured by WiFi networks has been widely used for different sensing purposes.
 
 ## Orthogonal Frequency-Division Multiplexing (OFDM)
 
@@ -24,7 +24,7 @@ For a WiFi system with MIMO-OFDM, CSI is a 3D matrix of complex values represent
 Recently, CSI measurements from WiFi systems are used for different sensing purposes.  
 Moreover, unlike sensor-based and video-based solutions, WiFi sensing is not intrusive or sensitive to lighting conditions.
 
-CSI measurements captures how wireless signals travel through surrounding objects and humans in time, frequency, and spatial domains, so it can be used for different wireless sensing applications. 
+CSI measurements capture how wireless signals travel through surrounding objects and humans in time, frequency, and spatial domains, so it can be used for different wireless sensing applications. 
 For example, CSI amplitude variations in the time domain have different patterns for different humans, activities, gestures, etc., which can be used for human presence detection, fall detection, motion detection, activity recognition, gesture recognition, and human identification/authentication.
 CSI phase shifts in the spatial and frequency domains are related to signal transmission delay and direction, which can be used for human localization and tracking.
 Meanwhile, time domain phase shifts may have different dominant frequency components which can be used to estimate breathing rate.
@@ -34,7 +34,7 @@ Meanwhile, time domain phase shifts may have different dominant frequency compon
     `τ`<sub>`i`</sub>`(t) - Propagation delay` <br>
     `f - Carrier frequency` <br>
 
-The CSI amplitude |H | and phase ∠H are impacted by the displacements and movements of the transmitter, receiver, and surrounding objects and humans. In other words, CSI captures the wireless characteristics of the nearby environment. These characteristics, assisted by mathematical modeling or machine learning algorithms, can be used for different sensing applications. This is the rationale for why CSI can be used for WiFi sensing.
+The CSI amplitude |H | and phase ∠H are impacted by the displacements and movements of the transmitter, receiver, and surrounding objects and humans. In other words, CSI captures the wireless characteristics of the nearby environment. These characteristics, assisted by mathematical modelling or machine learning algorithms, can be used for different sensing applications. This is the rationale for why CSI can be used for WiFi sensing.
 
 With N receive antennas, and K subcarriers, the CSI matrix is a 3D matrix.
 ![image](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/fa1721c7-a4e9-430b-8332-a33e28041e4f)
@@ -105,7 +105,7 @@ WiFi sensing applications need to extract the multi-path channel that contains t
 
  3. Signal Composition
     Some WiFi sensing applications need CSIs from multiple devices, carrier frequency bands, data packets, etc.
-    Threoritical Models such as Fresnel Zone Model, Angle of Arrival/Departure, Time of Flight, Amplitude Attenuation and Phase Shift are used as algorithms for signal composition.
+    Theoretical Models such as Fresnel Zone Model, Angle of Arrival/Departure, Time of Flight, Amplitude Attenuation and Phase Shift are used as algorithms for signal composition.
 
 
 ***
@@ -179,8 +179,8 @@ Designed filter limits the range of the input signal to be within the specified 
 ![image](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/8f72c669-a9e2-4072-8808-6df2c0f7b7dc)
 
 
-Due to several contrains we couldn't test the design using a FPGA board. 
-Also we thought the current filter instance can be improved further. Therfore we tried several other fitering methods but we couldn't correctly implement them yet.
+Due to several constraints we couldn't test the design using a FPGA board. 
+Also we thought the current filter instance could be improved further. Therfore we tried several other filtering methods but we couldn't correctly implement them yet.
 We are looking forward to develop those steps in following days.
 
 ***
