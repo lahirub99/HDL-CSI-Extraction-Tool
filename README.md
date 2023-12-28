@@ -179,6 +179,10 @@ Designed filter limits the range of the input signal to be within the specified 
 ![image](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/8f72c669-a9e2-4072-8808-6df2c0f7b7dc)
 
 
+#### Simulation
+
+![image](https://github.com/lahirub99/HDL-CSI-Extraction-Tool/assets/91234872/e910ea7c-15cd-4ae2-8a44-6da0d38c0edc)
+
 Due to several constraints we couldn't test the design using a FPGA board. 
 Also we thought the current filter instance could be improved further. Therfore we tried several other filtering methods but we couldn't correctly implement them yet.
 We are looking forward to develop those steps in following days.
