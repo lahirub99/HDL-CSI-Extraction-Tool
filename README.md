@@ -94,16 +94,16 @@ WiFi sensing applications need to extract the multi-path channel that contains t
    - DWT preserves mobility information in different scenarios and is more robust.
 
 ### Signal Extraction
-1. Filtering and Thresholding
+1. Filtering and Thresholding<br>
    High, low, and band pass filters are widely used to extract signals with certain dominant frequencies.
    WiFi-based respiration monitoring can use a BPF to capture the impact of chest movements caused by inhalation and exhalation.
    High Pass Filters (HPFs) can be used to filter out signals from static objects that have relatively stable signal reflections.
 
-2. Signal Compression
+2. Signal Compression<br>
    Processing raw CSI measurements sometimes requires extensive computation resources beacuse it contains huge amount of data.
    Raw CSIs can be compressed by dimension reduction techniques such as Principal/Independent Component Analysis (PCA/ICA), Singular Value Decomposition (SVD), etc., or metrics such as self/cross correlation, Euclidean distance, distribution function, etc. Signal compression can also remove redundant and unrelated information from raw CSI measurements in different domains.
 
- 3. Signal Composition
+ 3. Signal Composition<br>
     Some WiFi sensing applications need CSIs from multiple devices, carrier frequency bands, data packets, etc.
     Theoretical Models such as Fresnel Zone Model, Angle of Arrival/Departure, Time of Flight, Amplitude Attenuation and Phase Shift are used as algorithms for signal composition.
 
